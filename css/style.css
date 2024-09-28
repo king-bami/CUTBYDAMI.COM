@@ -75,7 +75,7 @@ a.text-primary {
     color: #0389ff !important; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
-  font-family: cursive;
+  font-family: monospace;
   color: #dddde6; }
 
 .btn {
